@@ -16,3 +16,6 @@ categories:
 
 What was the last movie you watched in a theater?
 A. Oppenheimer
+
+What did you eat for today’s lunch?
+A. Chicken Tikka with rice.
