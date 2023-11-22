@@ -1,0 +1,18 @@
+---
+title: "new_repo_quarto"
+author: "Sai Vineeth Kumar Dara"
+description: "Creating a new quarto file in a github version control R project"
+date: "09/20/2023"
+format:
+  html:
+    df-print: paged
+    css: "styles.css"
+    embed-resources: true
+    self-contained-math: true
+categories:
+  - weekly_challenges
+  - challenge_8
+---
+
+What was the last movie you watched in a theater?
+A. Oppenheimer
